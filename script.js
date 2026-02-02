@@ -97,6 +97,8 @@ const companies = [
     { name: "وافليشوس", nameEn: "Wafflicious", logo: "images/wafflicious.svg", discount: "15%", category: "مطاعم", categoryEn: "Restaurants", url: "https://apple.com", validUntil: "31 ديسمبر 2026", validUntilEn: "December 31, 2026", description: "خصم على المفروشات والمنسوجات", descriptionEn: "Exclusive discount on all textiles or furnishings", discountCode: "MEHALLA30" },
     { name: "كفته", nameEn: "KUFTA", logo: "images/kufta.svg", discount: "15%", category: "مطاعم", categoryEn: "Restaurants", url: "https://online.kufta.com/ar", validUntil: "31 ديسمبر 2026", validUntilEn: "December 31, 2026", description: " خصم على جميع المأكولات والمشروبات", descriptionEn: "Exclusive discount on all Food and drinks.", discountCode: "KUFTA15" },
     { name: "سدره", nameEn: "SEDRA", logo: "images/sedra.svg", discount: "20%", category: "مطاعم", categoryEn: "Restaurants", url: "https://sedraegy.com/", validUntil: "31 ديسمبر 2026", validUntilEn: "December 31, 2026", description: " خصم على جميع المأكولات والمشروبات", descriptionEn: "Exclusive discount on all Food and drinks.", discountCode: "SEDRA25" },
+    { name: "بابا جونز", nameEn: "PAPA JONS", logo: "images/papa jons.svg", discount: "20%", category: "مطاعم", categoryEn: "Restaurants", url: "https://www.papajohnsegypt.com/?lang=ar", validUntil: "31 ديسمبر 2026", validUntilEn: "December 31, 2026", description: " خصم على جميع المأكولات والمشروبات", descriptionEn: "Exclusive discount on all Food and drinks.", discountCode: "PAPAJONS20" },
+
 
 ];
 
