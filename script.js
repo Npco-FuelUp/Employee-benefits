@@ -113,7 +113,7 @@ let searchQuery = "";
 let currentColorTheme = 'default';
 
 const categoryTranslations = {
-    ar: ["صيدليات","الكل","ملابس", "مطاعم",],
+    ar: [ "الكل","صيدليات","ملابس", "مطاعم"],
     en: ["All","Clothing", "Restaurants","Pharmacies"]
 };
 
