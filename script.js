@@ -100,13 +100,7 @@ const companies = [
     { name: "سدره", nameEn: "SEDRA", logo: "images/sedra.svg", discount: "20%", category: "مطاعم", categoryEn: "Restaurants", url: "https://sedraegy.com/", validUntil: "31 ديسمبر 2026", validUntilEn: "December 31, 2026", description: " خصم على جميع المأكولات والمشروبات", descriptionEn: "Exclusive discount on all Food and drinks.", discountCode: "SEDRA25" },
     { name: "بابا جونز", nameEn: "PAPA JONS", logo: "images/papa jons.svg", discount: "20%", category: "مطاعم", categoryEn: "Restaurants", url: "https://www.papajohnsegypt.com/?lang=ar", validUntil: "31 ديسمبر 2026", validUntilEn: "December 31, 2026", description: " خصم على جميع المأكولات والمشروبات", descriptionEn: "Exclusive discount on all Food and drinks.", discountCode: "PAPAJONS20" },
     { name: "كبدة الفلاح", nameEn: "KABDA ELFLAH", logo: "images/kabdaElflah.svg", discount: "15%", category: "مطاعم", categoryEn: "Restaurants", url: "https://www.facebook.com/wahid.elfalah/", validUntil: "31 ديسمبر 2026", validUntilEn: "December 31, 2026", description: " خصم على جميع المأكولات والمشروبات", descriptionEn: "Exclusive discount on all Food and drinks.", discountCode: "ELFALAH15" },
-   { name: "صيدليات", nameEn: "Wayak", logo: "images/Wayak.svg", discount: "15%", category: "صيدليات", categoryEn: "Pharmacies", url: "https://wayakcard.com/", validUntil: "31 ديسمبر 2026", validUntilEn: "December 31, 2026", description: "  فقط فى حاله الطلب من خلال الابلكيشن تحصل على خصم على إجمالى الفاتورة 15 % على الادويه المحليه - وخصم 5 % على اجمالى الفاتورة على الادوية المستورده", descriptionEn: "App-Exclusive Offer
-
-Order via our app and enjoy instant discounts on your total bill:
-
-15% OFF on Local Medications
-
-5% OFF on Imported Medications .", discountCode: "ًWAYAK15" },
+   { name: "صيدليات", nameEn: "Wayak", logo: "images/Wayak.svg", discount: "15%", category: "صيدليات", categoryEn: "Pharmacies", url: "https://wayakcard.com/", validUntil: "31 ديسمبر 2026", validUntilEn: "December 31, 2026", description: "  فقط فى حاله الطلب من خلال الابلكيشن تحصل على خصم على إجمالى الفاتورة 15 % على الادويه المحليه - وخصم 5 % على اجمالى الفاتورة على الادوية المستورده", descriptionEn: "App-Exclusive OfferOrder via our app and enjoy instant discounts on your total bill:15% OFF on Local Medications5% OFF on Imported Medications .", discountCode: "ًWAYAK15" },
 
 ];
 
